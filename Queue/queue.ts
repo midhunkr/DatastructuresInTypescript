@@ -1,6 +1,3 @@
-//[]
-//FRONT_POINTER
-//REAR_POINTER
 export class Queue {
   private FRONT_POINTER: number = -1;
   private REAR_POINTER: number = -1;
